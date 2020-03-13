@@ -58,6 +58,7 @@ class PropertyAnimationsActivity : AppCompatActivity() {
             setTarget(testImage)
             start()
         }
+
     }
 
 
